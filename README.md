@@ -9,5 +9,8 @@ This page is a collection of ressources about Neato Vacuum devices and how to re
  * [Neato Serial Programmer’s Manual 3.1](https://help.neatorobotics.com/wp-content/uploads/2020/07/XV-ProgrammersManual-3_1.pdf)
  * [How to Control a Neato Robot From a Raspberry Pi](https://www.instructables.com/How-to-Control-a-Neato-Robot-From-a-Raspberry-Pi/)
  * [Neato D-Series Lidar and Raspberry Pi 3A+ with ROS](https://hackaday.io/project/171893-neato-d-series-lidar-and-raspberry-pi-3a-with-ros)
- * 
+ * [neato-connected-D8](https://github.com/algaen/neato-connected-D8) more details about the D8, and picture of D3 to D8 boards descriptions
+ * [LoyVanBeek/neato_ros2](https://github.com/LoyVanBeek/neato_ros2)
+ * [Neato ROS drivers, catkinized, and ready for ROS Groovy and newer](https://github.com/mikeferguson/neato_robot)
+ * [ROS 2 Documentation](https://wiki.ros.org/2dnav_neato)
    
