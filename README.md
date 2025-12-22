@@ -15,4 +15,6 @@ This page is a collection of ressources about Neato Vacuum devices and how to re
  * [ROS 2 Documentation](https://wiki.ros.org/2dnav_neato)
  * [ROS2 Using Neato BotVac D5 Connected Robot & 8GB Raspberry Pi4](https://www.technologyx2.com/blog_hightech/2021/6/6/project-ros2-using-neato-botvac-d5-connected-robot-amp-raspberry-pi4-8bg)
  * [Neato + ROS = Robot Navigation](https://www.servomagazine.com/magazine/article/neato-ros-robot-navigation)
+ * [Neato Scheduler](https://github.com/HawtDogFlvrWtr/botvac-wifi)
+ * 
    
