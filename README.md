@@ -18,3 +18,5 @@ This page is a collection of ressources about Neato Vacuum devices and how to re
  * [Neato Scheduler](https://github.com/HawtDogFlvrWtr/botvac-wifi)
  * 
    
+## Few notes about the Neato Bovac D6 (for now)
+ - To dissasemble it you need a TORX T10H screw driver
