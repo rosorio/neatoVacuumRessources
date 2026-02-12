@@ -1,3 +1,28 @@
+# Esp32 micropython code
+## Hardware: ESP32-DevKitC V2
+ * Chip is ESP32-D0WDQ6 (revision v1.0)
+ * Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+ * [ESP32-DevKitC V2 guide](https://documentation.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html?title=ESP32-DevKitC%20V2%20Getting%20Started%20Guide)
+
+## Starting with micropython
+  [Install guide](https://micropython.org/download/ESP32_GENERIC/)
+
+## Install the code
+ * ``sudo mpremote connect /dev/cuaU0 cp *.py :``
+ * ``sudo mpremote connect /dev/cuaU0 reset repl``
+
+## Boot sequence
+ * Startup
+    * If wifi not configured 
+        * display [configuation setup page](https://github.com/tayfunulu/WiFiManager/)
+    * Else
+        * open UART  play sound 1 (Start cleaning session)
+        * Start webserver to display GetVersion output
+
+## Cabling
+
+![image](NeatoWires.jpg)
+
 # neatoVacumRessources
 
 This page is a collection of ressources about Neato Vacuum devices and how to revive them after cloud server shudown
